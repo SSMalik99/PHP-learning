@@ -1,0 +1,3 @@
+this is the file which we are using jsut to find the proper way of file handling.
+Next step what we can do with this file system we will learn through this file.
+understanding of basic steps also include in this file.
